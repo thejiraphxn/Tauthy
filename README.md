@@ -39,7 +39,7 @@ python main.py
 
 ---
 
-## 📥 Download CSV
+## 📥 Download CSV (and drag to data folder)
 
 [Download CSV File](https://drive.google.com/drive/folders/198crt-ANfTur_bB7vcRu0pm16yeTF_NN?usp=drive_link) 📦
 
